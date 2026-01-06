@@ -21,15 +21,16 @@
 - theory-start: `11 october, 2025`
 - lab1: `23 October, 2025`
 - lab2: `30 October, 2025`
-- lab3: `06 November, 2025` + `Fire Drill xD`
+- lab3: `06 November, 2025` + Exam 1 on `Branching` + `Fire Drill xD`
 - lab4: `13 November, 2025`
-- lab5: `20 November, 2025`
+- lab5: `20 November, 2025` + Exam 2 on `Linear Loop`
 - _**midTerm 22nov-02dec**_
 - lab6: `11 December, 2025`
-- lab7: `18 December, 2025`
+- lab7: `18 December, 2025` + Exam 3 on `Strings`
     - Array Tracing: 
         - https://www.youtube.com/watch?v=lxfa9ZCoRGE
         - https://www.youtube.com/watch?v=o82c2OQ6H4Q
+- lab8: `31 December, 2025` + Exam 4 on `Array`
 - I'll add the Lab MarkSheet (.xlsx) @ the end of semester
 
 ## This is CSE110: `Java I` `Fall2025` @ BRACU

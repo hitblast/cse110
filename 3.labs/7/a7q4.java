@@ -34,7 +34,7 @@ public class a7q4 {
 
         for (int j = 0; j < arr2.length; j++)           // Loop over arr2
         {
-            int y = arr2[j];                            //        y ∈ arr2
+            int y = arr2[j];                            // take   y ∈ arr2
 
             boolean found = false;
             for (int i = 0; i < arr1.length; i++) {     // check: y ∈ arr1
