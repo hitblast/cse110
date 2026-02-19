@@ -21,8 +21,8 @@
 - I'll add the Lab MarkSheet (.xlsx) @ the end of semester
 - Next Semester's Teachers' Routine Grab
 - WebView for Teachers' Routine
-- More Tutorials for JAVA
-- Better JAVA: Recommended Resources for this readme
+- More REY-Tutorials for JAVA
+- Better "## Java: Recommended Resources" for this readme
 
 ### Dates
 - theory-start: `11 october, 2025`
@@ -44,6 +44,11 @@
 - lab9: `05 January, 2026` 
     - Exam 4 on `Array` / Last Lab
 - **final exam:** `11 January, 2026 : 08:30a.m.`
+
+</br>
+</br>
+</br>
+</br>
 
 ## This is CSE110: `Java I` `Fall2025` @ BRACU
 - `./0.outline` - Course Outline / Mark Distribution
