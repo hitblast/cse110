@@ -1,6 +1,6 @@
 <div class="REY_ACADEMIA1">
 
-### Courtasy of [`MOO-ORG`](https://github.com/MOO-ORG)
+### Courtesy of [`MOO-ORG`](https://github.com/MOO-ORG)
 - Source: https://github.com/MOO-ORG/CSE110/blob/main/Extras/MID%20QS%20Practise/QS1.md
 </br>
 </br>
