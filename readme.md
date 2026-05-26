@@ -45,6 +45,9 @@
     - [English][14]
     </br>
 
+- Practice Sheet by ST Nandi
+    - https://drive.google.com/drive/folders/1tdEqocBsaDPSstySABCduXZ0DxeHKz1k
+
 - `./2.labs` - **Lab+Assignment:** (All Sections)
 - `./3.exams` - MidTerm, LabExam/Quiz, Final Exam
     - [🔗][15]
